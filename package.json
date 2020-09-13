@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/APSL/react-native-keyboard-aware-scroll-view.git"
+        "url": "git+https://github.com/vuongductuanktmt/react-native-keyboard-aware-scroll-view.git"
     },
     "tags": [
         "react",
